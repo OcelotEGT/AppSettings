@@ -1,0 +1,12 @@
+{
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "onWindowChange",
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.gist": "0c3/0t.36t"
+}
